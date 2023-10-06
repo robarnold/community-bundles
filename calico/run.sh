@@ -18,7 +18,7 @@ getConfig() {
 
 VALUES="{}"
 # renovate: depName=tigera-operator repoUrl=https://docs.tigera.io/calico/charts
-VERSION="3.25.0"
+VERSION="v3.26.3"
 
 templ() {
     local file="$3"
